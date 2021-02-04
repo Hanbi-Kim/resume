@@ -623,3 +623,18 @@ a {
 .letter-spacing {
   letter-spacing: .2rem;
   color: rgba(255, 255, 255, 0.5) !important; }
+
+  #btn { display:block; 
+		  width:200px; 
+		  height:40px; 
+		  line-height:40px; 
+		  border:2px #ffffff solid;; 
+		  margin:15px auto; 
+		  background-color:#a8bdbb; 
+		  text-align:center; 
+		  cursor: pointer; 
+		  color:#ffffff; 
+		  transition:all 0.9s, color 0.3; }
+	  
+  #btn:hover{color:#fff;}
+
